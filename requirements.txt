@@ -1,4 +1,2 @@
 python-telegram-bot
 mutagen
-python 3
-python-telegram-web
